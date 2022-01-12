@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ulil
 - 👀 I’m interested in mMchine Learning and Technology and Privacy
-- 🌱 I’m currently learning MVC
+- 🌱 I’m currently learning MVC, Django and Vue Learning Management System (LMS)
 - 💞️ I’m looking to collaborate in python project
 - 📫 How to reach me on stamaliah@gmail.com
 
